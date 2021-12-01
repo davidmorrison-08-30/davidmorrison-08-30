@@ -1,7 +1,7 @@
 <h1 align="center">Hello World<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ### :school: I'm a freshman at University of Information Technology - Vietnam National University (UIT-VNU)
-
+### :mortar_board: Major: Computer Science since 10/2021
 ### :sparkles: Currently, this is my first readme:sparkles:
 ### :ok_hand: You can call me Khôi or David
 ### :heart_decoration: Hobbies: swimming:swimmer:, chill music:musical_score:, coding:computer:
@@ -12,6 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmorrison-08-30)](https://github.com/davidmorrison-08-30/github-readme-stats)
 
 🌱I’m currently learning Python Django, HTML-CSS-JavaScript and Introduction to C++
+
+:memo: Early projects <a href="https://github.com/davidmorrison-08-30/Python.git">here</a>
 
 
 ## Contact me : 
