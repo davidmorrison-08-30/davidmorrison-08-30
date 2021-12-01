@@ -20,7 +20,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-David_Ng_-E4405F?style=flat-roundedrectangle&logo=twitter&logoColor=white&link=https://twitter.com/DavidNg81364148)](https://twitter.com/DavidNg81364148)
 [![Pinterest Badge](https://img.shields.io/badge/-david_morrison_-E4405F?style=flat-roundedrectangle&logo=pinterest&logoColor=white&link=https://www.pinterest.com/khoisupercf/_saved/)](https://www.pinterest.com/khoisupercf/_saved/)
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"David Morrison"</a></h2>
+<h2 align="center">"David Morrison"</h2>
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
