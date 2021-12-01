@@ -1,6 +1,6 @@
 <h1 align="center">Hello World<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :school: I am a student at University of Information Technology - Vietnam National University (UIT-VNU)
+### :school: I'm a freshman at University of Information Technology - Vietnam National University (UIT-VNU)
 
 ### :sparkles: Currently, this is my first readme:sparkles:
 ### :ok_hand: You can call me Khôi or David
@@ -9,9 +9,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmorrison-08-30)](https://github.com/davidmorrison-08-30/github-readme-stats)
 
-
-🌱 I’m currently learning Python Django 
+🌱I’m currently learning Python Django, HTML-CSS-JavaScript and Introduction to C++
 
 
 ## Contact me : 
@@ -26,7 +26,7 @@
 ------
 Credit: [David Morrison](https://github.com/davidmorrison-08-30/)
 
-Last Edited on: 1/12/2021
+Last edited on: 1/12/2021
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
