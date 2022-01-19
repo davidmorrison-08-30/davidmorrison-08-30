@@ -13,7 +13,9 @@
 
 🌱I’m currently learning Python Django, HTML-CSS-JavaScript and Introduction to C++
 
-:memo: Early projects <a href="https://github.com/davidmorrison-08-30/Python.git">here</a>
+:memo: Early projects here:
+      
+   1. <a href="https://github.com/davidmorrison-08-30/Translation-app.git">TRANSLATION APP USING GOOGLE API</a>
 
 
 ## Contact me : 
