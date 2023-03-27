@@ -4,7 +4,7 @@
 ### :mortar_board: Major: Computer Science since 10/2021
 ### :sparkles: Currently, this is my first readme:sparkles:
 ### :ok_hand: You can call me Khôi or David
-### :heart_decoration: Hobbies: swimming:swimmer:, chill music:musical_score:, coding:computer:
+### :heart_decoration: Hobbies: swimming:swimmer:, gym:muscle:, chill music:musical_score:, coding:computer:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
