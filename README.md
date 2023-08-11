@@ -13,10 +13,10 @@
 
 🌱I’m currently learning Python Django, HTML-CSS-JavaScript and Introduction to C++
 
-:memo: Coursera's specializations I have done:
+:memo: **Coursera's specializations I have done**:
 1. <a href="https://coursera.org/share/72c78736f81262a20ae1bcfd772bff02">IBM Data Science Specialization</a>
 
-:memo: Coursera's courses I have done:
+:memo: **Coursera's courses I have done**:
 1. <a href="https://coursera.org/share/365fbc553ff3ac1e044986ecc858e641">Data Structures, UC San Diego</a>
 2. <a href="https://coursera.org/share/1a18785b3d46fbad4a6de58afd45f9f4">Object-Oriented C++: Inheritance and Encapsulation, Codio</a>
 3. <a href="https://coursera.org/share/43fdb8cb43bd2b014282679a4c89b11b">Machine Learning for All, University of London</a>
@@ -31,7 +31,7 @@
 12. <a href="https://coursera.org/share/6cd61ee536832055d5904cbd0630d027">Machine Learning with Python, IBM</a>
 13. <a href="https://coursera.org/share/d94f0fcfc7fcd22ff9ce037f5931f85a">Applied Data Science Capstone, IBM</a>
 
-:memo: Some of my typical projects and self-training exercises here:
+:memo: **Some of my typical projects and self-training exercises here**:
       
    1. <a href="https://github.com/davidmorrison-08-30/Rocket-Landing-Outcome-Prediction">Applied Data Science Capstone's project: predicting SpaceX rocket's outcome</a>
    2. <a href="https://github.com/davidmorrison-08-30/KNN-FROM-SCRATCH">K Nearest Neighbors from scratch</a>
