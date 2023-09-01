@@ -31,6 +31,7 @@
 12. <a href="https://coursera.org/share/6cd61ee536832055d5904cbd0630d027">Machine Learning with Python, IBM</a>
 13. <a href="https://coursera.org/share/d94f0fcfc7fcd22ff9ce037f5931f85a">Applied Data Science Capstone, IBM</a>
 14. <a href="https://coursera.org/share/46647299e1af61a6257c2fb96c313f5c">Computational Thinking for Problem Solving, UPenn</a>
+15. <a href="https://coursera.org/share/343cd67bd47410358419491f14aa12d1">Linear Algebra for Machine Learning and Data Science</a>
 
 :memo: **Some of my typical projects and self-training exercises here**:
       
