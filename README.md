@@ -33,6 +33,7 @@
 14. <a href="https://coursera.org/share/46647299e1af61a6257c2fb96c313f5c">Computational Thinking for Problem Solving, UPenn</a>
 15. <a href="https://coursera.org/share/343cd67bd47410358419491f14aa12d1">Linear Algebra for Machine Learning and Data Science, DeepLearning.AI</a>
 16. <a href="https://coursera.org/share/5ff3d35d91735039a0fa421cec49b524">Fundamentals of Scalable Data Science, IBM</a>
+17. <a href="https://coursera.org/share/099cd818856727d4875cb07b49d57497">Calculus for Machine Learning and Data Science, DeepLearning.AI</a>
 
 :memo: **Some of my typical projects and self-training exercises here**:
       
