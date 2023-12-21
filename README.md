@@ -35,6 +35,7 @@
 16. <a href="https://coursera.org/share/5ff3d35d91735039a0fa421cec49b524">Fundamentals of Scalable Data Science, IBM</a>
 17. <a href="https://coursera.org/share/099cd818856727d4875cb07b49d57497">Calculus for Machine Learning and Data Science, DeepLearning.AI</a>
 18. <a href="https://coursera.org/share/961058473e75db039f56fdbaec6dcf35">Problem Solving Using Computational Thinking, University of Michigan</a>
+19. <a href="https://coursera.org/share/b58c541c8d9c00da8c34b33563dad439">Introduction to DevOps, IBM</a>
 
 :memo: **Some of my typical projects and self-training exercises here**:
       
